@@ -1,0 +1,7 @@
+.infoTable, .infoTable td, .infoTable th{
+    border: 1px solid;
+  }
+
+.infoTable-footer-addBtn{
+  width : 100%;
+}

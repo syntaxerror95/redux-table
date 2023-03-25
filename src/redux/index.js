@@ -1,0 +1,6 @@
+//export { increment } from './table/tableActions'
+export { addRow } from './table/tableActions'
+export { deletRow } from './table/tableActions'
+export { editRow } from './table/tableActions'
+export { openModal } from './table/tableActions'
+export { closeModal } from './table/tableActions'
